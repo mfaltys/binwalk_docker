@@ -47,24 +47,25 @@ inittab -> rcS -> internet.sh ->
   - brings network interfaces online
 
 - 1337 easter eggs:
-  ```
-  Welcome to
-     _______  _______  ___     __  ____   _  _   ___
-    |  ___  \|   __  ||   |   |__||    \ | || | /  /
-    | |___| ||  |__| ||   |__  __ |     \| || |/  /
-    |   _   /|   _   ||      ||  || |\     ||     \
-    |__| \__\|__| |__||______||__||_| \____||_|\___\
-
-                     =System Architecture Department=
-
-  ```
+```
+Welcome to  
+   _______  _______  ___     __  ____   _  _   ___  
+  |  ___  \|   __  ||   |   |__||    \ | || | /  /  
+  | |___| ||  |__| ||   |__  __ |     \| || |/  /  
+  |   _   /|   _   ||      ||  || |\     ||     \  
+  |__| \__\|__| |__||______||__||_| \____||_|\___\  
+   
+                   =System Architecture Department=  
+  
+```
 
 ### TODO
+
 ```
-/sbin/chpasswd.sh
-/etc_ro/servercert.pem
-/etc_ro/serverkey.pem
-/etc_ro/rcS
-/usr/sbin/telnetd
-/sbin/snort.sh`: leads us to belive snort is installed at /bin/snort.. it is not
+/sbin/chpasswd.sh  
+/etc_ro/servercert.pem  
+/etc_ro/serverkey.pem  
+/etc_ro/rcS  
+/usr/sbin/telnetd  
+/sbin/snort.sh`: leads us to belive snort is installed at /bin/snort.. it is not  
 ```
