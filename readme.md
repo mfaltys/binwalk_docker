@@ -46,7 +46,7 @@ inittab -> rcS -> internet.sh ->
   - starts video stream
   - brings network interfaces online
 
-- 1337 easter eggs:
+- 1337 easter eggs:  
 ```
 Welcome to  
    _______  _______  ___     __  ____   _  _   ___  
