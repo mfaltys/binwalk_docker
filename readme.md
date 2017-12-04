@@ -5,6 +5,9 @@ with ubuntu (only OS that I could get to reliable run binwalk) and add compile
 binwalk from source. From here we can grab the firmware package and
 extract/traverse with binwalk.
 
+Here is a screencap of entering the filesystem:  
+https://asciinema.org/a/150880
+
 ## Building the image
 We can build the image with make. Issue `make` or `make build` to build the
 image. This requires `docker` and `make` to be installed.
